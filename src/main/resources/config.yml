@@ -1,0 +1,67 @@
+team-colors:
+  red: "Rouge"
+  green: "Vert"
+  yellow: "Jaune"
+  purple: "Violet"
+
+game-modes:
+  solo:
+    max-players: 4
+  team2:
+    max-players: 8
+    team-size: 2
+  team4:
+    max-players: 16
+    team-size: 4
+spawns:
+  solo:
+    - world: "world"
+      x: 100
+      y: 65
+      z: 100
+    - world: "world"
+      x: 200
+      y: 65
+      z: 100
+    - world: "world"
+      x: 100
+      y: 65
+      z: 200
+    - world: "world"
+      x: 200
+      y: 65
+      z: 200
+  team2:
+    - world: "world"
+      x: 100
+      y: 65
+      z: 100
+    - world: "world"
+      x: 200
+      y: 65
+      z: 100
+    - world: "world"
+      x: 100
+      y: 65
+      z: 200
+    - world: "world"
+      x: 200
+      y: 65
+      z: 200
+  team4:
+    - world: "world"
+      x: 100
+      y: 65
+      z: 100
+    - world: "world"
+      x: 200
+      y: 65
+      z: 100
+    - world: "world"
+      x: 100
+      y: 65
+      z: 200
+    - world: "world"
+      x: 200
+      y: 65
+      z: 200

@@ -1,0 +1,4 @@
+name: CoreSkyWars
+version: 1.0
+main: fr.edmine.SkyWars.Main
+author: EdmineCoreTeam
